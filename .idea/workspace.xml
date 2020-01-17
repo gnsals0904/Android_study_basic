@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27a3316b-ba61-4e28-b0a4-9f925f741774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/java/com/example/andorid_study_1/MenuExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/layout/activity_menu_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/layout/content_menu_example.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/java/com/example/andorid_study_1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/java/com/example/andorid_study_1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Andorid_Study_1/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Andorid_Study_1/app/src/main/java/com/example/andorid_study_1/MenuExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Andorid_Study_1/app" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="43" />
+    <option name="width" value="1640" />
+    <option name="height" value="855" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="andorid_study_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Andorid_Study_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Andorid_Study_1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a3316b-ba61-4e28-b0a4-9f925f741774" name="Default Changelist" comment="" />
+      <created>1579241454104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579241454104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.25115663" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Andorid_Study_1/app/src/main/java/com/example/andorid_study_1/MenuExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
